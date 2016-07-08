@@ -1,0 +1,43 @@
+{
+  "[2016-06-16 12:10:04,803]":
+  {
+    "message":{
+      "date": 1465728227,
+      "text": "/start",
+      "from": {
+        "first_name": "Vitaliy",
+        "last_name": "Kopachov",
+        "id": 142315803
+      },
+      "message_id": 163,
+      "chat": {
+        "first_name": "Vitaliy",
+        "last_name": "Kopachov",
+        "type": "private",
+        "id": 142315803
+      }
+    },
+    "update_id": 285486039
+  },
+
+  "[2016-06-16 12:10:04,802]":
+  {
+  "message": {
+              "date": 1465728227,
+              "text": "/start",
+              "from": {
+                        "first_name": "Vitaliy",
+                        "last_name": "Kopachov",
+                        "id": 142315803
+                      },
+              "message_id": 163,
+              "chat": {
+                        "first_name": "Vitaliy",
+                        "last_name": "Kopachov",
+                        "type": "private",
+                        "id": 142315803
+                      }
+              },
+  "update_id": 285486039
+}
+}
